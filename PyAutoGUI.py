@@ -49,3 +49,4 @@ class Scanner:
         except Exception as e:
             print(f"Error during file scan: {e}")
             return -1
+        

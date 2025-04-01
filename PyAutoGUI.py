@@ -34,6 +34,7 @@ class Scanner:
             print("Starting scan...")
             pyautogui.click(600, 600)
             time.sleep(5)
+
             
             screenshot = pyautogui.screenshot()
             screenshot.save("scan_result.png")

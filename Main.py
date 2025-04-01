@@ -62,6 +62,7 @@ def get_coordinates():
 def status():
     return jsonify({'status': 'running', 'message': 'API is up and running'})
 
+
 if __name__ == '__main__':
     print("Starting API server...")
     print("Available endpoints:")

@@ -6,17 +6,17 @@ This tool is useful when **Acronis TrueImage does not provide a command-line int
 
 ---
 
-## ** Features**  
-✅ **Automated File Backup**: Start a backup process by specifying the source and destination directories.  
-✅ **Automated File Scanning**: Scan a file for potential threats using Acronis TrueImage.  
-✅ **Retrieve Scan History**: Get a list of previously scanned files along with their results.  
-✅ **Mouse Coordinate Helper**: Identify screen coordinates to fine-tune PyAutoGUI operations.  
-✅ **API Status Check**: Verify whether the API is running.  
-✅ **Logging System**: All operations (backups, scans, errors) are recorded in `log.txt`.  
+##  Features
+- **Automated File Backup**: Start a backup process by specifying the source and destination directories.  
+- **Automated File Scanning**: Scan a file for potential threats using Acronis TrueImage.  
+- **Retrieve Scan History**: Get a list of previously scanned files along with their results.  
+- **Mouse Coordinate Helper**: Identify screen coordinates to fine-tune PyAutoGUI operations.  
+- **API Status Check**: Verify whether the API is running.  
+- **Logging System**: All operations (backups, scans, errors) are recorded in `log.txt`.    
 
 ---
 
-## ** Installation**  
+##  Installation
 
 ### **🔹 1. Clone the Repository**  
 First, clone the repository and navigate into the project directory:  
@@ -49,7 +49,7 @@ This means the API is up and running at `http://127.0.0.1:5000/`.
 
 ---
 
-## ** API Endpoints and Usage**  
+##  API Endpoints and Usage 
 
 Below are the available API endpoints and how to use them via **PowerShell**.
 
@@ -154,7 +154,7 @@ Invoke-RestMethod -Uri "http://127.0.0.1:5000/status" -Method Get
 
 ---
 
-## ** Logging System**  
+##  Logging System
 
 All backup and scanning operations, along with errors, are logged in **`log.txt`**. This helps with debugging and monitoring.
 
@@ -168,7 +168,7 @@ Each log entry contains a **timestamp**, **log level (INFO/ERROR)**, and a **des
 
 ---
 
-## ** Troubleshooting**  
+##  Troubleshooting 
 
 **1. Acronis TrueImage is not opening automatically?**  
 - Ensure Acronis is installed at:  
@@ -185,7 +185,7 @@ Each log entry contains a **timestamp**, **log level (INFO/ERROR)**, and a **des
 
 ---
 
-## ** How It Works Internally**  
+##  How It Works Internally
 
 1. **BackupManager (BackGUI.py)**  
    - Automates Acronis backup operations by simulating user interactions.  
@@ -203,5 +203,5 @@ Each log entry contains a **timestamp**, **log level (INFO/ERROR)**, and a **des
 
 ---
 
-## ** License**  
+##  License 
 This project is licensed under the **MIT License**. You are free to modify and distribute it.  

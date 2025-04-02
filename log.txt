@@ -5,3 +5,17 @@
 2025-04-02 21:18:12,498 - INFO - Scanner initialized.
 2025-04-02 21:18:12,522 - WARNING -  * Debugger is active!
 2025-04-02 21:18:12,526 - INFO -  * Debugger PIN: 109-505-517
+2025-04-02 21:19:01,951 - INFO - Scanner initialized.
+2025-04-02 21:19:01,977 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-02 21:19:01,977 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-02 21:19:01,979 - INFO -  * Restarting with stat
+2025-04-02 21:19:02,469 - INFO - Scanner initialized.
+2025-04-02 21:19:02,483 - WARNING -  * Debugger is active!
+2025-04-02 21:19:02,485 - INFO -  * Debugger PIN: 109-505-517
+2025-04-02 21:19:10,394 - INFO - Loading scan history.
+2025-04-02 21:19:10,394 - INFO - 127.0.0.1 - - [02/Apr/2025 21:19:10] "GET /scan/history HTTP/1.1" 200 -
+2025-04-02 21:19:13,828 - INFO - Starting scan for file: ./TestToScan.exe
+2025-04-02 21:19:26,441 - ERROR - Error extracting text from screenshot: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-02 21:19:26,442 - INFO - Scan completed: ./TestToScan.exe - Clean
+2025-04-02 21:19:26,443 - INFO - 127.0.0.1 - - [02/Apr/2025 21:19:26] "POST /scan HTTP/1.1" 200 -

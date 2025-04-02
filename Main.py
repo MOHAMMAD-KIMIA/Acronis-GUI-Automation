@@ -63,11 +63,17 @@ def status():
     return jsonify({'status': 'running', 'message': 'API is up and running'})
 
 
+@app.route("/scan/history", methods=["GET"])
+def scan_history():
+    history = scan_manager.load_scan_history()
+    return jsonify(history), 200
+
 if __name__ == '__main__':
     print("Starting API server...")
     print("Available endpoints:")
     print("  POST /backup - Start a backup operation")
     print("  POST /scan - Scan a file for viruses")
     print("  GET /get-coordinates - Helper to find screen coordinates")
+    print("  GET /scan/history - Retrieve scan history")
     print("  GET /status - Check API status")
     app.run(debug=True)

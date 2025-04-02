@@ -1,0 +1,53 @@
+2025-04-02 19:29:11,311 - WARNING -  * Debugger is active!
+2025-04-02 19:29:11,314 - INFO -  * Debugger PIN: 109-505-517
+2025-04-02 19:29:14,331 - INFO -  * Detected change in 'd:\\University\\Term 6\\GUI Automation\\Acronis-GUI-Automation\\PyAutoGUI.py', reloading
+2025-04-02 19:29:14,886 - INFO - Scanner initialized.
+2025-04-02 19:29:14,903 - WARNING -  * Debugger is active!
+2025-04-02 19:29:14,907 - INFO -  * Debugger PIN: 109-505-517
+2025-04-02 19:29:17,927 - INFO -  * Detected change in 'd:\\University\\Term 6\\GUI Automation\\Acronis-GUI-Automation\\Main.py', reloading
+2025-04-02 19:29:18,520 - INFO - Scanner initialized.
+2025-04-02 19:29:18,535 - WARNING -  * Debugger is active!
+2025-04-02 19:29:18,538 - INFO -  * Debugger PIN: 109-505-517
+2025-04-02 19:29:25,536 - INFO - Scanner initialized.
+2025-04-02 19:29:25,564 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-02 19:29:25,564 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-02 19:29:25,565 - INFO -  * Restarting with stat
+2025-04-02 19:29:26,029 - INFO - Scanner initialized.
+2025-04-02 19:29:26,044 - WARNING -  * Debugger is active!
+2025-04-02 19:29:26,046 - INFO -  * Debugger PIN: 109-505-517
+2025-04-02 19:29:39,475 - INFO - Starting scan for file: ./TestToScan.exe
+2025-04-02 19:29:52,070 - ERROR - Error extracting text from screenshot: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-02 19:29:52,071 - INFO - Scan completed: ./TestToScan.exe - Clean
+2025-04-02 19:29:52,072 - INFO - 127.0.0.1 - - [02/Apr/2025 19:29:52] "POST /scan HTTP/1.1" 200 -
+2025-04-02 19:30:33,744 - INFO - Loading scan history.
+2025-04-02 19:30:33,744 - INFO - 127.0.0.1 - - [02/Apr/2025 19:30:33] "GET /scan/history HTTP/1.1" 200 -
+2025-04-02 19:31:23,596 - INFO - Starting scan for file: ./TestToScan.exe
+2025-04-02 19:31:36,200 - ERROR - Error extracting text from screenshot: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-02 19:31:36,200 - INFO - Scan completed: ./TestToScan.exe - Clean
+2025-04-02 19:31:36,201 - INFO - 127.0.0.1 - - [02/Apr/2025 19:31:36] "POST /scan HTTP/1.1" 200 -
+2025-04-02 19:32:13,582 - INFO -  * Detected change in 'd:\\University\\Term 6\\GUI Automation\\Acronis-GUI-Automation\\BackGUI.py', reloading
+2025-04-02 19:32:13,628 - INFO -  * Restarting with stat
+2025-04-02 19:32:14,149 - INFO - Scanner initialized.
+2025-04-02 19:32:14,164 - WARNING -  * Debugger is active!
+2025-04-02 19:32:14,166 - INFO -  * Debugger PIN: 109-505-517
+2025-04-02 19:32:28,214 - INFO -  * Detected change in 'd:\\University\\Term 6\\GUI Automation\\Acronis-GUI-Automation\\BackGUI.py', reloading
+2025-04-02 19:32:28,256 - INFO -  * Restarting with stat
+2025-04-02 19:32:28,787 - INFO - Scanner initialized.
+2025-04-02 19:32:28,805 - WARNING -  * Debugger is active!
+2025-04-02 19:32:28,807 - INFO -  * Debugger PIN: 109-505-517
+2025-04-02 19:32:40,857 - INFO -  * Detected change in 'd:\\University\\Term 6\\GUI Automation\\Acronis-GUI-Automation\\BackGUI.py', reloading
+2025-04-02 19:32:40,899 - INFO -  * Restarting with stat
+2025-04-02 19:32:41,397 - INFO - Scanner initialized.
+2025-04-02 19:32:41,412 - WARNING -  * Debugger is active!
+2025-04-02 19:32:41,414 - INFO -  * Debugger PIN: 109-505-517
+2025-04-02 19:32:47,440 - INFO -  * Detected change in 'd:\\University\\Term 6\\GUI Automation\\Acronis-GUI-Automation\\PyAutoGUI.py', reloading
+2025-04-02 19:32:47,480 - INFO -  * Restarting with stat
+2025-04-02 19:32:47,995 - INFO - Scanner initialized.
+2025-04-02 19:32:48,012 - WARNING -  * Debugger is active!
+2025-04-02 19:32:48,014 - INFO -  * Debugger PIN: 109-505-517
+2025-04-02 19:33:05,083 - INFO -  * Detected change in 'd:\\University\\Term 6\\GUI Automation\\Acronis-GUI-Automation\\Main.py', reloading
+2025-04-02 19:33:05,120 - INFO -  * Restarting with stat
+2025-04-02 19:33:05,625 - INFO - Scanner initialized.
+2025-04-02 19:33:05,640 - WARNING -  * Debugger is active!
+2025-04-02 19:33:05,642 - INFO -  * Debugger PIN: 109-505-517

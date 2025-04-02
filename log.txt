@@ -1,0 +1,7 @@
+2025-04-02 21:18:10,886 - INFO - Scanner initialized.
+2025-04-02 21:18:10,901 - WARNING -  * Debugger is active!
+2025-04-02 21:18:10,904 - INFO -  * Debugger PIN: 109-505-517
+2025-04-02 21:18:11,916 - INFO -  * Detected change in 'd:\\University\\Term 6\\GUI Automation\\Acronis-GUI-Automation\\BackGUI.py', reloading
+2025-04-02 21:18:12,498 - INFO - Scanner initialized.
+2025-04-02 21:18:12,522 - WARNING -  * Debugger is active!
+2025-04-02 21:18:12,526 - INFO -  * Debugger PIN: 109-505-517

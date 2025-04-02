@@ -5,7 +5,7 @@ import os
 import logging
 
 logging.basicConfig(
-    filename="backup_log.txt",
+    filename="log.txt",
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
 )
